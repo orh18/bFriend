@@ -18,7 +18,7 @@
         <EditText
             android:id="@+id/editTextTextEmailAddress42"
             android:layout_width="250dp"
-            android:layout_height="40dp"
+            android:layout_height="48dp"
             android:layout_marginTop="168dp"
             android:backgroundTint="#FFFFFF"
             android:ems="10"
@@ -27,7 +27,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.496"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="SpeakableTextPresentCheck" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <TextView
@@ -47,7 +48,7 @@
     <EditText
         android:id="@+id/editTextTextEmailAddress37"
         android:layout_width="250dp"
-        android:layout_height="40dp"
+        android:layout_height="48dp"
         android:layout_marginTop="260dp"
         android:backgroundTint="#FFFFFF"
         android:ems="10"
@@ -56,12 +57,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress38"
         android:layout_width="250dp"
-        android:layout_height="40dp"
+        android:layout_height="48dp"
         android:layout_marginTop="344dp"
         android:backgroundTint="#FFFFFF"
         android:ems="10"
@@ -70,12 +72,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress39"
         android:layout_width="250dp"
-        android:layout_height="40dp"
+        android:layout_height="48dp"
         android:layout_marginTop="428dp"
         android:backgroundTint="#FFFFFF"
         android:ems="10"
@@ -84,12 +87,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress40"
         android:layout_width="250dp"
-        android:layout_height="40dp"
+        android:layout_height="48dp"
         android:layout_marginTop="508dp"
         android:backgroundTint="#FFFFFF"
         android:ems="10"
@@ -98,7 +102,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/textMailRegister7"
